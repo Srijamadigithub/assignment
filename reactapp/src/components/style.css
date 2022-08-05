@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 5;
+}
+.primary{
+    align-items: center;
+}
+.img1{
+    display:inline-block;
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    border:2px salmon;
+}
